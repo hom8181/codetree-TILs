@@ -15,23 +15,22 @@ public class Main {
         int cTemp = sc.nextInt();
 
         int coldCount = 0;
-
-        if (checkCold(aYn, aTemp)) {
-            coldCount++;
-        }
-        if (checkCold(bYn, bTemp)) {
-            coldCount++;
-        }
-        if (checkCold(cYn, cTemp)) {
-            coldCount++;
-        }
+        coldCount = coldCount + checkCold(aYn, aTemp);
+        coldCount = coldCount + checkCold(bYn, bTemp);
+        coldCount = coldCount + checkCold(cYn, cTemp);
 
         if (coldCount >= 2) {
             System.out.print("E");
+        } else {
+            System.out.print("N");
         }
     }
 
-    public static boolean checkCold(String cold, int temp) {
-        return cold.equals("Y") && temp >= 37;
+    public static int checkCold(String cold, int temp) {
+        if (cold.equals("Y") && temp >= 37) {
+            return 1;
+        } else {
+            return 0;
+        }
     }
 }
