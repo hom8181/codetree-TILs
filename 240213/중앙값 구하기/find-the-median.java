@@ -8,11 +8,19 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-
+        
         if (a > b) {
-            System.out.print(Math.min(a, c));
+            if (a > c) {
+                System.out.print(c);
+            } else {
+                System.out.print(a);
+            }
         } else {
-            System.out.print(Math.min(b, c));
+            if (b > c) {
+                System.out.print(c);
+            } else {
+                System.out.print(b);
+            }
         }
     }
 }
