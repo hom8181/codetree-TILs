@@ -20,7 +20,7 @@
 |[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[연습]일 수 구하기](https://www.codetree.ai/missions/4/problems/number-of-days-in-month)|![보통][medium]|![Passed][passed]|[링크](https://github.com/hom8181/codetree-TILs/blob/main/240213/%EC%9D%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/number-of-days-in-month.java)|
 |[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[연습]최댓값 구하기](https://www.codetree.ai/missions/4/problems/maximum-value)|![어려움][hard]|![Passed][passed]|[링크](https://github.com/hom8181/codetree-TILs/blob/main/240213/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0/maximum-value.java)|
 |[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[연습]코로나 메뉴얼](https://www.codetree.ai/missions/4/problems/covid-manual)|![어려움][hard]|![Passed][passed]|[링크](https://github.com/hom8181/codetree-TILs/blob/main/240213/%EC%BD%94%EB%A1%9C%EB%82%98%20%EB%A9%94%EB%89%B4%EC%96%BC/covid-manual.java)|
-|[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[테스트]중앙값 구하기](https://www.codetree.ai/missions/4/problems/find-the-median)|![쉬움][easy]|![Failed][failed]|[링크](https://github.com/hom8181/codetree-TILs/blob/main/240213/%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0/find-the-median.java)|
+|[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[테스트]중앙값 구하기](https://www.codetree.ai/missions/4/problems/find-the-median)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/hom8181/codetree-TILs/blob/main/240213/%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0/find-the-median.java)|
 
 
 * 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
